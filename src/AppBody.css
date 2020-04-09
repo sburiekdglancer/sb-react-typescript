@@ -1,0 +1,7 @@
+.app-body {
+    background-color: #f4f2f6 !important;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}

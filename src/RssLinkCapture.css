@@ -1,0 +1,49 @@
+.rss-link-capture {
+    margin: auto;
+    padding-top: -100px;
+  }
+  
+.rss-link-capture-container {
+    overflow: hidden;
+    border-radius: 10px;
+    width: 600px;
+    height: 220px;
+}
+.rss-link-capture  .capture-header {
+    background-color:  #FFFF;
+    color: #3103f9;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rss-link-capture input {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    border-radius: 5px;
+    border: 1px solid #bbb;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 10px 8px;
+    width: 80%;
+  }
+
+.transcribe-button {
+    border-radius: 20px !important;
+    background-color: #1200ff !important;
+    display: block !important;
+    margin: auto;
+    color: #ffffff;
+    height: 35px;
+    width: 80px;
+}
+
+.search-link {
+    width: 75%;
+    margin: auto;
+}
+.container {
+    background-color: #fafafd;
+    height: 200px;
+    text-align: center;
+}

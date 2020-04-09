@@ -1,0 +1,17 @@
+.component-header {
+  font-weight: bold;
+  font-family: "Garamond";
+  font-size: 18px;
+  text-align: left;
+  height: 60px;
+  width: 100%;
+  color: #3103f9;
+  display: flex;
+  align-items: center;
+  padding-left: 25px;
+}
+
+.progress-span {
+  position: fixed;
+  right: 10px;
+}
